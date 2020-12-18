@@ -6,6 +6,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Optional : Change NEXT_PUBLIC_API_BASE_URL in .env to the base url of the API
 
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
 Run the development server:
 
 ```bash
